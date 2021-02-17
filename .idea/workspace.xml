@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a427417-a53f-41f2-8029-edb0d78b0f5a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Headset.py" beforeDir="false" afterPath="$PROJECT_DIR$/Headset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StoneCrusher.py" beforeDir="false" afterPath="$PROJECT_DIR$/StoneCrusher.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scores.db" beforeDir="false" afterPath="$PROJECT_DIR$/scores.db" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="b2c32a7a-be8f-43cd-ba57-8e021bc0aa44" />
+  <component name="ProjectId" id="1jpt60T3GF80DhXnVSjGgROPdQ1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cortex-v2-example-master/python" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.StoneCrusher (1)">
+    <configuration name="Headset" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="StoneCrusher" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Joker\Documents\Schule\THB\S5\CrossDev\StoneCrusher\Headset.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StoneCrusher (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="StoneCrusher" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StoneCrusher.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="StoneCrusher" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="StoneCrusher" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Joker\Documents\Schule\THB\S5\CrossDev\StoneCrusher\StoneCrusher.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.StoneCrusher (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a427417-a53f-41f2-8029-edb0d78b0f5a" name="Default Changelist" comment="" />
+      <created>1604512681712</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604512681712</updated>
+      <workItem from="1604512691986" duration="641000" />
+      <workItem from="1604513418190" duration="505000" />
+      <workItem from="1604513932876" duration="11041000" />
+      <workItem from="1604588835882" duration="4283000" />
+      <workItem from="1604594388779" duration="9876000" />
+      <workItem from="1604684282199" duration="24700000" />
+      <workItem from="1604761400863" duration="11354000" />
+      <workItem from="1604772831285" duration="11149000" />
+      <workItem from="1604787639254" duration="866000" />
+      <workItem from="1604857886159" duration="22656000" />
+      <workItem from="1605115555685" duration="10340000" />
+      <workItem from="1605279238897" duration="3466000" />
+      <workItem from="1605282717924" duration="9162000" />
+      <workItem from="1605293233305" duration="12176000" />
+      <workItem from="1605370336561" duration="15698000" />
+      <workItem from="1605453084963" duration="6259000" />
+      <workItem from="1605686816544" duration="263000" />
+      <workItem from="1605715164474" duration="19132000" />
+      <workItem from="1605812811362" duration="2333000" />
+      <workItem from="1606202860397" duration="230000" />
+      <workItem from="1606220088861" duration="5190000" />
+    </task>
+    <task id="LOCAL-00007" summary="Transparenz gefixed">
+      <created>1604601256767</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604601256767</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Rudimentäre Game Loop">
+      <created>1604602786953</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1604602786953</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Plattformkontrolle">
+      <created>1604604263706</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604604263706</updated>
+    </task>
+    <task id="LOCAL-00010" summary="vor Block Typ">
+      <created>1604690502176</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1604690502176</updated>
+    </task>
+    <task id="LOCAL-00011" summary="mit Block Typ aber noch versetzt">
+      <created>1604691527964</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1604691527964</updated>
+    </task>
+    <task id="LOCAL-00012" summary="fertig Objektorientiert">
+      <created>1604693406247</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1604693406247</updated>
+    </task>
+    <task id="LOCAL-00013" summary="fertig Objektorientiert (jetzt erst recht!)">
+      <created>1604694258466</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1604694258466</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Nach Stunden habe ich es mal hingekriegt -.-">
+      <created>1604710809337</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1604710809337</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Heureka, Physik!">
+      <created>1604714282161</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1604714282161</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Deflecting platform physics">
+      <created>1604768283817</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1604768283817</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Logische Effekte">
+      <created>1604778277142</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1604778277142</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Sounds">
+      <created>1604780884783</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1604780884783</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Score und Health">
+      <created>1604782521180</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1604782521180</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Neue Schutzlinie">
+      <created>1604787517041</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1604787517041</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Bessere skalierung">
+      <created>1604788386811</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1604788386811</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Bessere skalierung">
+      <created>1604788498013</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1604788498013</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Überlappende Sounds gefixed">
+      <created>1604858994258</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1604858994258</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Target und cleanup">
+      <created>1604859758813</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1604859758813</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Mehrere Runden">
+      <created>1604860656886</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1604860656886</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Menüs">
+      <created>1604874784536</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1604874784536</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Scorebaord">
+      <created>1604881042441</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1604881042441</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Steigende Ballgeschwindigkeit und weniger spitze Winkel">
+      <created>1604885975859</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1604885975859</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Blockspawnwarscheinlichkeiten">
+      <created>1605118300667</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1605118300667</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Highscore und Fix">
+      <created>1605121885370</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1605121885370</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Neue Pages und Settings Button">
+      <created>1605122271367</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1605122271367</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Ballauswahl">
+      <created>1605282081258</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1605282081258</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Geschwindigkeitsauswahl">
+      <created>1605285136326</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1605285136326</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Highlight ausgewählten Ball">
+      <created>1605285782541</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1605285782541</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Langsahmerer Ball">
+      <created>1605286671749</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1605286671749</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Logspam">
+      <created>1605287841669</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1605287841669</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Headset - Gameplay und Font fixes">
+      <created>1605381922431</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1605381922432</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Multiuser Headset">
+      <created>1605383120549</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1605383120549</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Push-Erkennung">
+      <created>1605383838041</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1605383838041</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Registriere push als drücken">
+      <created>1605385070706</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1605385070706</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Button betätigung durch push">
+      <created>1605385382647</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1605385382647</updated>
+    </task>
+    <task id="LOCAL-00042" summary="cleanup">
+      <created>1605385814216</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1605385814216</updated>
+    </task>
+    <task id="LOCAL-00043" summary="cleanup, take 2">
+      <created>1605455816920</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1605455816920</updated>
+    </task>
+    <task id="LOCAL-00044" summary="cleanup, take 3">
+      <created>1605457884656</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1605457884656</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Menüsteuerung über Headset">
+      <created>1605458935122</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1605458935122</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Ahmad's Creds">
+      <created>1605715284972</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1605715284972</updated>
+    </task>
+    <task id="LOCAL-00047" summary="ohne elses">
+      <created>1605717673806</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1605717673806</updated>
+    </task>
+    <task id="LOCAL-00048" summary="data output">
+      <created>1605718400922</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1605718400922</updated>
+    </task>
+    <task id="LOCAL-00049" summary="data_streams output">
+      <created>1605720500351</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1605720500351</updated>
+    </task>
+    <task id="LOCAL-00050" summary="data_streams komplett output">
+      <created>1605721031505</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1605721031506</updated>
+    </task>
+    <task id="LOCAL-00051" summary="neue data-Ausleselogik mit data_streams">
+      <created>1605741514334</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1605741514334</updated>
+    </task>
+    <task id="LOCAL-00052" summary="mehr data output">
+      <created>1605813153779</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1605813153779</updated>
+    </task>
+    <task id="LOCAL-00053" summary="mehr data output">
+      <created>1605813490480</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1605813490480</updated>
+    </task>
+    <task id="LOCAL-00054" summary="hilfreicherer Index Error output">
+      <created>1605813556186</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1605813556186</updated>
+    </task>
+    <task id="LOCAL-00055" summary="output newest_command">
+      <created>1605813984924</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1605813984924</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Highscore und Fix" />
+    <MESSAGE value="Neue Pages und Settings Button" />
+    <MESSAGE value="Ballauswahl" />
+    <MESSAGE value="Geschwindigkeitsauswahl" />
+    <MESSAGE value="Highlight ausgewählten Ball" />
+    <MESSAGE value="Langsahmerer Ball" />
+    <MESSAGE value="Logspam" />
+    <MESSAGE value="Headset - Gameplay und Font fixes" />
+    <MESSAGE value="Multiuser Headset" />
+    <MESSAGE value="Push-Erkennung" />
+    <MESSAGE value="Registriere push als drücken" />
+    <MESSAGE value="Button betätigung durch push" />
+    <MESSAGE value="cleanup" />
+    <MESSAGE value="cleanup, take 2" />
+    <MESSAGE value="cleanup, take 3" />
+    <MESSAGE value="Menüsteuerung über Headset" />
+    <MESSAGE value="Ahmad's Creds" />
+    <MESSAGE value="ohne elses" />
+    <MESSAGE value="data output" />
+    <MESSAGE value="data_streams output" />
+    <MESSAGE value="data_streams komplett output" />
+    <MESSAGE value="neue data-Ausleselogik mit data_streams" />
+    <MESSAGE value="mehr data output" />
+    <MESSAGE value="hilfreicherer Index Error output" />
+    <MESSAGE value="output newest_command" />
+    <option name="LAST_COMMIT_MESSAGE" value="output newest_command" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="834" y="672" key="#SQL_Dialects" timestamp="1604875435005">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state x="834" y="672" key="#SQL_Dialects/62.0.3010.1728@62.0.3010.1728" timestamp="1604875435005" />
+    <state x="1163" y="516" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604875491315">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state x="1163" y="516" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.0.3010.1728@62.0.3010.1728" timestamp="1604875491315" />
+    <state x="1294" y="647" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604601308296">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state x="1294" y="647" key="#com.intellij.fileTypes.FileTypeChooser/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1604601308296" />
+    <state x="1235" y="551" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604878697922">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state x="1235" y="551" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/62.0.3010.1728@62.0.3010.1728" timestamp="1604878697922" />
+    <state x="172" y="390" width="2445" height="609" key="#xdebugger.XInspectDialog" timestamp="1604772651458">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state x="172" y="390" width="2445" height="609" key="#xdebugger.XInspectDialog/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1604772651458" />
+    <state x="204" y="36" width="2267" height="1490" key="CommitChangelistDialog2" timestamp="1605813984365">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state x="204" y="36" width="2655" height="1608" key="CommitChangelistDialog2/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1605122270791" />
+    <state x="204" y="36" width="2267" height="1490" key="CommitChangelistDialog2/62.0.3010.1728/-1080.317.1080.1880@62.0.3010.1728" timestamp="1605813984365" />
+    <state x="204" y="36" width="2759" height="1614" key="CommitChangelistDialog2/62.0.3010.1728@62.0.3010.1728" timestamp="1604885975242" />
+    <state width="2110" height="582" key="DebuggerActiveHint" timestamp="1605740538855">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state width="2110" height="582" key="DebuggerActiveHint/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1605121431757" />
+    <state width="2110" height="582" key="DebuggerActiveHint/62.0.3010.1728/-1080.317.1080.1880@62.0.3010.1728" timestamp="1605740538855" />
+    <state width="704" height="582" key="DebuggerActiveHint/62.0.3010.1728@62.0.3010.1728" timestamp="1604709027467" />
+    <state x="323" y="133" key="DiffContextDialog" timestamp="1604778259228">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state x="323" y="133" key="DiffContextDialog/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1604778259228" />
+    <state x="1298" y="561" key="FileChooserDialogImpl" timestamp="1605374179463">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state x="1298" y="561" key="FileChooserDialogImpl/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1604778339903" />
+    <state x="1298" y="561" key="FileChooserDialogImpl/62.0.3010.1728/-1080.317.1080.1880@62.0.3010.1728" timestamp="1605374179463" />
+    <state x="1183" y="562" width="536" height="428" key="Github.ShareDialog" timestamp="1604514095175">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state x="1183" y="562" width="536" height="428" key="Github.ShareDialog/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1604514095175" />
+    <state x="1255" y="499" key="Github.UntrackedFilesDialog" timestamp="1604513536303">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state x="1255" y="499" key="Github.UntrackedFilesDialog/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1604513536303" />
+    <state width="2955" height="468" key="GridCell.Tab.0.bottom" timestamp="1606224404387">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state width="2955" height="278" key="GridCell.Tab.0.bottom/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1605127390581" />
+    <state width="2955" height="468" key="GridCell.Tab.0.bottom/62.0.3010.1728/-1080.317.1080.1880@62.0.3010.1728" timestamp="1606224404387" />
+    <state width="2955" height="468" key="GridCell.Tab.0.bottom/62.0.3010.1728/-1920.317.1920.1040@62.0.3010.1728" timestamp="1605459729912" />
+    <state width="2955" height="468" key="GridCell.Tab.0.bottom/62.0.3010.1728@62.0.3010.1728" timestamp="1605311648263" />
+    <state width="2955" height="468" key="GridCell.Tab.0.center" timestamp="1606224404387">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state width="2955" height="278" key="GridCell.Tab.0.center/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1605127390580" />
+    <state width="2955" height="468" key="GridCell.Tab.0.center/62.0.3010.1728/-1080.317.1080.1880@62.0.3010.1728" timestamp="1606224404387" />
+    <state width="2955" height="468" key="GridCell.Tab.0.center/62.0.3010.1728/-1920.317.1920.1040@62.0.3010.1728" timestamp="1605459729912" />
+    <state width="2955" height="468" key="GridCell.Tab.0.center/62.0.3010.1728@62.0.3010.1728" timestamp="1605311648263" />
+    <state width="2955" height="468" key="GridCell.Tab.0.left" timestamp="1606224404387">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state width="2955" height="278" key="GridCell.Tab.0.left/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1605127390580" />
+    <state width="2955" height="468" key="GridCell.Tab.0.left/62.0.3010.1728/-1080.317.1080.1880@62.0.3010.1728" timestamp="1606224404387" />
+    <state width="2955" height="468" key="GridCell.Tab.0.left/62.0.3010.1728/-1920.317.1920.1040@62.0.3010.1728" timestamp="1605459729912" />
+    <state width="2955" height="468" key="GridCell.Tab.0.left/62.0.3010.1728@62.0.3010.1728" timestamp="1605311648263" />
+    <state width="2955" height="468" key="GridCell.Tab.0.right" timestamp="1606224404387">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state width="2955" height="278" key="GridCell.Tab.0.right/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1605127390581" />
+    <state width="2955" height="468" key="GridCell.Tab.0.right/62.0.3010.1728/-1080.317.1080.1880@62.0.3010.1728" timestamp="1606224404387" />
+    <state width="2955" height="468" key="GridCell.Tab.0.right/62.0.3010.1728/-1920.317.1920.1040@62.0.3010.1728" timestamp="1605459729912" />
+    <state width="2955" height="468" key="GridCell.Tab.0.right/62.0.3010.1728@62.0.3010.1728" timestamp="1605311648263" />
+    <state width="2955" height="502" key="GridCell.Tab.1.bottom" timestamp="1606223541618">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state width="2955" height="537" key="GridCell.Tab.1.bottom/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1605121789265" />
+    <state width="2955" height="502" key="GridCell.Tab.1.bottom/62.0.3010.1728/-1080.317.1080.1880@62.0.3010.1728" timestamp="1606223541618" />
+    <state width="2955" height="537" key="GridCell.Tab.1.bottom/62.0.3010.1728@62.0.3010.1728" timestamp="1605311069692" />
+    <state width="2955" height="502" key="GridCell.Tab.1.center" timestamp="1606223541618">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state width="2955" height="537" key="GridCell.Tab.1.center/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1605121789265" />
+    <state width="2955" height="502" key="GridCell.Tab.1.center/62.0.3010.1728/-1080.317.1080.1880@62.0.3010.1728" timestamp="1606223541618" />
+    <state width="2955" height="537" key="GridCell.Tab.1.center/62.0.3010.1728@62.0.3010.1728" timestamp="1605311069692" />
+    <state width="2955" height="502" key="GridCell.Tab.1.left" timestamp="1606223541618">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state width="2955" height="537" key="GridCell.Tab.1.left/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1605121789265" />
+    <state width="2955" height="502" key="GridCell.Tab.1.left/62.0.3010.1728/-1080.317.1080.1880@62.0.3010.1728" timestamp="1606223541618" />
+    <state width="2955" height="537" key="GridCell.Tab.1.left/62.0.3010.1728@62.0.3010.1728" timestamp="1605311069692" />
+    <state width="2955" height="502" key="GridCell.Tab.1.right" timestamp="1606223541618">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state width="2955" height="537" key="GridCell.Tab.1.right/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1605121789265" />
+    <state width="2955" height="502" key="GridCell.Tab.1.right/62.0.3010.1728/-1080.317.1080.1880@62.0.3010.1728" timestamp="1606223541618" />
+    <state width="2955" height="537" key="GridCell.Tab.1.right/62.0.3010.1728@62.0.3010.1728" timestamp="1605311069692" />
+    <state x="1063" y="533" key="Vcs.Push.Dialog.v2" timestamp="1605813986424">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state x="1063" y="533" key="Vcs.Push.Dialog.v2/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1605118303060" />
+    <state x="1063" y="533" key="Vcs.Push.Dialog.v2/62.0.3010.1728/-1080.317.1080.1880@62.0.3010.1728" timestamp="1605813986424" />
+    <state x="1063" y="533" key="Vcs.Push.Dialog.v2/62.0.3010.1728@62.0.3010.1728" timestamp="1604885977321" />
+    <state width="1509" height="868" key="XDebugger.FullValuePopup" timestamp="1604772644761">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state width="1509" height="868" key="XDebugger.FullValuePopup/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1604772644761" />
+    <state x="1346" y="759" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605121860197">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state x="1346" y="759" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1605121860197" />
+    <state x="1346" y="759" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/62.0.3010.1728@62.0.3010.1728" timestamp="1604714040290" />
+    <state x="1325" y="751" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604513290011">
+      <screen x="62" y="0" width="3010" height="1728" />
+    </state>
+    <state x="1325" y="751" key="git4idea.remote.GitConfigureRemotesDialog/62.0.3010.1728/-1080.235.1080.1880@62.0.3010.1728" timestamp="1604513290011" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/StoneCrusher.py</url>
+          <line>190</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/StoneCrusher$StoneCrusher.coverage" NAME="StoneCrusher Coverage Results" MODIFIED="1605288056506" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/StoneCrusher$StoneCrusher__1_.coverage" NAME="StoneCrusher (1) Coverage Results" MODIFIED="1606224404383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/StoneCrusher$HeadsetTest.coverage" NAME="HeadsetTest Coverage Results" MODIFIED="1605375200432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
